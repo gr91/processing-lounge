@@ -1,4 +1,4 @@
-processing-lounge
+Processing Lounge
 =================
 
 A [slowly growing] collection of Processing drafts that I use for my course at Academy of Fine Arts and ISIA Uni [both in Urbino, Italy].
